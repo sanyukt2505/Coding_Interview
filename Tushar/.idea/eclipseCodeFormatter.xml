@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1475700843474" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/Work/setup/formatter/tools/ide/eclipse/Eclipse_Organize_Imports.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="name" value="CBSP" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/Work/setup/formatter/tools/ide/eclipse/Eclipse_Formatter.xml" />
+        <option name="selectedJavaProfile" value="CBSPProfile" />
+      </Settings>
+    </option>
+  </component>
+</project>
